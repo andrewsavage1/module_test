@@ -1,6 +1,7 @@
 [submodule "submodule_1"]
 	path = submodule_1
 	url = https://github.com/andrewsavage1/submodule_1.git
+	branch = to_track
 [submodule "submodule_2"]
 	path = submodule_2
 	url = https://github.com/andrewsavage1/submodule_2.git
